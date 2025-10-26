@@ -1,6 +1,5 @@
 import sys
 
-from BitmapMessage.bitmap import message
 
 bitmap = """
 ....................................................................
